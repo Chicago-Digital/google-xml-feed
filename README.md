@@ -1,2 +1,3 @@
 # google-xml-feed
-A full stack app that finds friends by checking compatibility. Similar to a dating app. 
+
+A REST api that receives data from business catalyst and sends it to Google Shopping.
